@@ -1,0 +1,100 @@
+2024-08-25 18:55:02,588-INFO-Request Json File: {'TPno': '0553120019', 'Id': '1-5APN0TE', 'SRNumber': '1-11531637986', 'FaultStatus': '1', 'Return_Remarks': 'R1\n', 'Test_Observations': '2', 'Cause_of_Fault': 'A', 'Fault_In': 'A7', 'Impact': '1', 'ClearedDate': '2024-08-25T18:52:02', 'ConfirmDate': '2024-08-25T18:52:02', 'Additional_Remarks': None}
+2024-08-25 18:55:02,588-INFO-@1 a0onPEPhTDTg7yM
+2024-08-25 18:55:02,718-INFO-DB Connection: a0onPEPhTDTg7yM - {'status': <cx_Oracle.Connection to OSSPRG@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=172.25.1.172)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=clty)))>}
+2024-08-25 18:55:02,721-INFO-SQL results: a0onPEPhTDTg7yM - {}
+2024-08-25 18:55:02,745-INFO-SRNumber: a0onPEPhTDTg7yM - {'msg': 'Success', 'result': 'OSS Fault Cleared and Confirm'}
+2024-08-26 09:25:01,103-INFO-Request Json File: {'TPno': '0113421024', 'Id': '1-5A36RIC', 'SRNumber': '1-11493927876', 'FaultStatus': '1', 'Return_Remarks': 'R1\n', 'Test_Observations': '13', 'Cause_of_Fault': 'D', 'Fault_In': 'D1', 'Impact': '1', 'ClearedDate': '2024-08-26T09:23:34', 'ConfirmDate': '2024-08-26T09:23:34', 'Additional_Remarks': 'No coverage.Will consider in the future expansions\n'}
+2024-08-26 09:25:01,103-INFO-@1 bBjTnwhQQ8PY4mP
+2024-08-26 09:25:01,271-INFO-DB Connection: bBjTnwhQQ8PY4mP - {'status': <cx_Oracle.Connection to OSSPRG@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=172.25.1.172)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=clty)))>}
+2024-08-26 09:25:01,275-INFO-SQL results: bBjTnwhQQ8PY4mP - {}
+2024-08-26 09:25:01,291-INFO-SRNumber: bBjTnwhQQ8PY4mP - {'msg': 'Success', 'result': 'OSS Fault Cleared and Confirm'}
+2024-08-26 09:30:04,020-INFO-Request Json File: {'TPno': '0363129380', 'Id': '1-5A5HXIS', 'SRNumber': '1-11497808116', 'FaultStatus': '1', 'Return_Remarks': 'R1\n', 'Test_Observations': '3', 'Cause_of_Fault': 'A', 'Fault_In': 'A7', 'Impact': '1', 'ClearedDate': '2024-08-26T09:25:20', 'ConfirmDate': '2024-08-26T09:25:20', 'Additional_Remarks': 'No fault found\n'}
+2024-08-26 09:30:04,020-INFO-@1 2mnkqyhgRgrLha8
+2024-08-26 09:30:04,296-INFO-DB Connection: 2mnkqyhgRgrLha8 - {'status': <cx_Oracle.Connection to OSSPRG@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=172.25.1.172)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=clty)))>}
+2024-08-26 09:30:04,300-INFO-SQL results: 2mnkqyhgRgrLha8 - {}
+2024-08-26 09:30:04,312-INFO-SRNumber: 2mnkqyhgRgrLha8 - {'msg': 'Success', 'result': 'OSS Fault Cleared and Confirm'}
+2024-08-26 09:35:01,445-INFO-Request Json File: {'TPno': '0333130563', 'Id': '1-5AGB5IQ', 'SRNumber': '1-11515967666', 'FaultStatus': '1', 'Return_Remarks': 'R1\n', 'Test_Observations': '8', 'Cause_of_Fault': 'A', 'Fault_In': 'A7', 'Impact': '1', 'ClearedDate': '2024-08-26T09:33:17', 'ConfirmDate': '2024-08-26T09:33:17', 'Additional_Remarks': 'High utilization\n'}
+2024-08-26 09:35:01,446-INFO-@1 ksD3AHWlSGfX1yf
+2024-08-26 09:35:01,617-INFO-DB Connection: ksD3AHWlSGfX1yf - {'status': <cx_Oracle.Connection to OSSPRG@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=172.25.1.172)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=clty)))>}
+2024-08-26 09:35:01,621-INFO-SQL results: ksD3AHWlSGfX1yf - {}
+2024-08-26 09:35:01,634-INFO-SRNumber: ksD3AHWlSGfX1yf - {'msg': 'Success', 'result': 'OSS Fault Cleared and Confirm'}
+2024-08-26 09:40:03,998-INFO-Request Json File: {'TPno': '0813163814', 'Id': '1-5AH1A44', 'SRNumber': '1-11517186676', 'FaultStatus': '1', 'Return_Remarks': 'R1\n', 'Test_Observations': '2', 'Cause_of_Fault': 'A', 'Fault_In': 'A7', 'Impact': '1', 'ClearedDate': '2024-08-26T09:36:11', 'ConfirmDate': '2024-08-26T09:36:11', 'Additional_Remarks': None}
+2024-08-26 09:40:03,998-INFO-@1 Piac2ef5rOhioKd
+2024-08-26 09:40:04,169-INFO-DB Connection: Piac2ef5rOhioKd - {'status': <cx_Oracle.Connection to OSSPRG@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=172.25.1.172)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=clty)))>}
+2024-08-26 09:40:04,173-INFO-SQL results: Piac2ef5rOhioKd - {}
+2024-08-26 09:40:04,197-INFO-SRNumber: Piac2ef5rOhioKd - {'msg': 'Success', 'result': 'OSS Fault Cleared and Confirm'}
+2024-08-26 11:40:04,750-INFO-Request Json File: {'TPno': '0453132287', 'Id': '1-5AP3AYY', 'SRNumber': '1-11530718026', 'FaultStatus': '1', 'Return_Remarks': 'R1', 'Test_Observations': '3', 'Cause_of_Fault': 'A', 'Fault_In': 'A1', 'Impact': '1', 'ClearedDate': '2024-08-26T11:39:57', 'ConfirmDate': '2024-08-26T11:39:57', 'Additional_Remarks': None}
+2024-08-26 11:40:04,750-INFO-@1 fcU4n3UcnQj8svK
+2024-08-26 11:40:04,903-INFO-DB Connection: fcU4n3UcnQj8svK - {'status': <cx_Oracle.Connection to OSSPRG@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=172.25.1.172)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=clty)))>}
+2024-08-26 11:40:04,924-INFO-SQL results: fcU4n3UcnQj8svK - {}
+2024-08-26 11:40:04,937-INFO-SRNumber: fcU4n3UcnQj8svK - {'msg': 'Success', 'result': 'OSS Fault Cleared and Confirm'}
+2024-08-26 12:40:03,399-INFO-Request Json File: {'TPno': '0343144840', 'Id': '1-5A3JF9A', 'SRNumber': '1-11494518526', 'FaultStatus': '1', 'Return_Remarks': 'R1', 'Test_Observations': '3', 'Cause_of_Fault': 'A', 'Fault_In': 'A1', 'Impact': '1', 'ClearedDate': '2024-08-26T12:36:54', 'ConfirmDate': '2024-08-26T12:36:54', 'Additional_Remarks': None}
+2024-08-26 12:40:03,399-INFO-@1 mmnWfEc7vVKzdIW
+2024-08-26 12:40:03,504-INFO-DB Connection: mmnWfEc7vVKzdIW - {'status': <cx_Oracle.Connection to OSSPRG@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=172.25.1.172)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=clty)))>}
+2024-08-26 12:40:03,507-INFO-SQL results: mmnWfEc7vVKzdIW - {}
+2024-08-26 12:40:03,519-INFO-SRNumber: mmnWfEc7vVKzdIW - {'msg': 'Success', 'result': 'OSS Fault Cleared and Confirm'}
+2024-08-26 15:50:03,099-INFO-Request Json File: {'TPno': '0343144652', 'Id': '1-5AH1IIC', 'SRNumber': '1-11517197556', 'FaultStatus': '1', 'Return_Remarks': 'R1', 'Test_Observations': '13', 'Cause_of_Fault': 'D', 'Fault_In': 'D1', 'Impact': '1', 'ClearedDate': '2024-08-26T15:49:02', 'ConfirmDate': '2024-08-26T15:49:02', 'Additional_Remarks': None}
+2024-08-26 15:50:03,099-INFO-@1 N93Gcwu7EnDPmAT
+2024-08-26 15:50:03,192-INFO-DB Connection: N93Gcwu7EnDPmAT - {'status': <cx_Oracle.Connection to OSSPRG@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=172.25.1.172)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=clty)))>}
+2024-08-26 15:50:03,197-INFO-SQL results: N93Gcwu7EnDPmAT - {}
+2024-08-26 15:50:03,228-INFO-SRNumber: N93Gcwu7EnDPmAT - {'msg': 'Success', 'result': 'OSS Fault Cleared and Confirm'}
+2024-08-26 18:05:01,318-INFO-Request Json File: {'TPno': '0813163620', 'Id': '1-5AV1WWA', 'SRNumber': '1-11540730826', 'FaultStatus': '1', 'Return_Remarks': 'R1\n', 'Test_Observations': '2', 'Cause_of_Fault': 'A', 'Fault_In': 'A7', 'Impact': '1', 'ClearedDate': '2024-08-26T18:04:03', 'ConfirmDate': '2024-08-26T18:04:03', 'Additional_Remarks': None}
+2024-08-26 18:05:01,318-INFO-@1 Q3sHLQmIehTCwPO
+2024-08-26 18:05:01,320-INFO-Request Json File: {'TPno': '0573131381', 'Id': '1-5ATUGGA', 'SRNumber': '1-11538703306', 'FaultStatus': '1', 'Return_Remarks': 'R1\n', 'Test_Observations': '2', 'Cause_of_Fault': 'A', 'Fault_In': 'A7', 'Impact': '1', 'ClearedDate': '2024-08-26T18:02:16', 'ConfirmDate': '2024-08-26T18:02:16', 'Additional_Remarks': None}
+2024-08-26 18:05:01,320-INFO-@1 9KRJmeC6s8eID22
+2024-08-26 18:05:02,613-INFO-DB Connection: Q3sHLQmIehTCwPO - {'status': <cx_Oracle.Connection to OSSPRG@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=172.25.1.172)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=clty)))>}
+2024-08-26 18:05:02,625-INFO-SQL results: Q3sHLQmIehTCwPO - {}
+2024-08-26 18:05:02,650-INFO-SRNumber: Q3sHLQmIehTCwPO - {'msg': 'Success', 'result': 'OSS Fault Cleared and Confirm'}
+2024-08-26 18:05:02,885-INFO-DB Connection: 9KRJmeC6s8eID22 - {'status': <cx_Oracle.Connection to OSSPRG@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=172.25.1.172)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=clty)))>}
+2024-08-26 18:05:02,892-INFO-SQL results: 9KRJmeC6s8eID22 - {}
+2024-08-26 18:05:02,925-INFO-SRNumber: 9KRJmeC6s8eID22 - {'msg': 'Success', 'result': 'OSS Fault Cleared and Confirm'}
+2024-08-26 18:10:03,438-INFO-Request Json File: {'TPno': '0263122503', 'Id': '1-5ASF15C', 'SRNumber': '1-11536304016', 'FaultStatus': '1', 'Return_Remarks': 'R4\n', 'Test_Observations': '14', 'Cause_of_Fault': 'F', 'Fault_In': 'F2', 'Impact': '1', 'ClearedDate': '2024-08-26T18:05:03', 'ConfirmDate': '2024-08-26T18:05:03', 'Additional_Remarks': 'Other Issue'}
+2024-08-26 18:10:03,438-INFO-@1 QXohiwJ0uMJj73g
+2024-08-26 18:10:03,449-INFO-Request Json File: {'TPno': '0113478804', 'Id': '1-5AUKKX8', 'SRNumber': '1-11539922156', 'FaultStatus': '1', 'Return_Remarks': 'R1\n', 'Test_Observations': '3', 'Cause_of_Fault': 'C', 'Fault_In': 'C1', 'Impact': '1', 'ClearedDate': '2024-08-26T18:06', 'ConfirmDate': '2024-08-26T18:06', 'Additional_Remarks': 'Cx said issue is ok at the initial call\n'}
+2024-08-26 18:10:03,449-INFO-@1 LhXKM3imikWS937
+2024-08-26 18:10:03,528-INFO-Request Json File: {'TPno': '0333650777', 'Id': '1-5AUBPB4', 'SRNumber': '1-11539507936', 'FaultStatus': '1', 'Return_Remarks': 'R1\n', 'Test_Observations': '2', 'Cause_of_Fault': 'A', 'Fault_In': 'A7', 'Impact': '1', 'ClearedDate': '2024-08-26T18:08:57', 'ConfirmDate': '2024-08-26T18:08:57', 'Additional_Remarks': None}
+2024-08-26 18:10:03,528-INFO-@1 Fui4M65f2zU8a7V
+2024-08-26 18:10:04,431-INFO-DB Connection: QXohiwJ0uMJj73g - {'status': <cx_Oracle.Connection to OSSPRG@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=172.25.1.172)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=clty)))>}
+2024-08-26 18:10:04,445-INFO-SQL results: QXohiwJ0uMJj73g - {}
+2024-08-26 18:10:04,459-INFO-SRNumber: QXohiwJ0uMJj73g - {'msg': 'Success', 'result': 'OSS Fault Cleared and Confirm'}
+2024-08-26 18:10:04,474-INFO-DB Connection: LhXKM3imikWS937 - {'status': <cx_Oracle.Connection to OSSPRG@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=172.25.1.172)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=clty)))>}
+2024-08-26 18:10:04,480-INFO-Request Json File: {'TPno': '0553137382', 'Id': '1-5ATPIOK', 'SRNumber': '1-11538472916', 'FaultStatus': '1', 'Return_Remarks': 'R1\n', 'Test_Observations': '2', 'Cause_of_Fault': 'A', 'Fault_In': 'A7', 'Impact': '1', 'ClearedDate': '2024-08-26T18:07:24', 'ConfirmDate': '2024-08-26T18:07:24', 'Additional_Remarks': None}
+2024-08-26 18:10:04,480-INFO-@1 ohXEqEovA9PpzC3
+2024-08-26 18:10:04,481-INFO-SQL results: LhXKM3imikWS937 - {}
+2024-08-26 18:10:04,500-INFO-SRNumber: LhXKM3imikWS937 - {'msg': 'Success', 'result': 'OSS Fault Cleared and Confirm'}
+2024-08-26 18:10:04,573-INFO-Request Json File: {'TPno': '0113493355', 'Id': '1-5ATTO8Q', 'SRNumber': '1-11538666746', 'FaultStatus': '1', 'Return_Remarks': 'R1\n', 'Test_Observations': '11', 'Cause_of_Fault': 'A', 'Fault_In': 'A7', 'Impact': '1', 'ClearedDate': '2024-08-26T18:06:58', 'ConfirmDate': '2024-08-26T18:06:58', 'Additional_Remarks': 'Device issue'}
+2024-08-26 18:10:04,573-INFO-@1 tIdPcv8Kt4vOf5U
+2024-08-26 18:10:04,870-INFO-DB Connection: Fui4M65f2zU8a7V - {'status': <cx_Oracle.Connection to OSSPRG@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=172.25.1.172)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=clty)))>}
+2024-08-26 18:10:04,876-INFO-SQL results: Fui4M65f2zU8a7V - {}
+2024-08-26 18:10:04,888-INFO-SRNumber: Fui4M65f2zU8a7V - {'msg': 'Success', 'result': 'OSS Fault Cleared and Confirm'}
+2024-08-26 18:10:05,306-INFO-DB Connection: ohXEqEovA9PpzC3 - {'status': <cx_Oracle.Connection to OSSPRG@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=172.25.1.172)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=clty)))>}
+2024-08-26 18:10:05,314-INFO-SQL results: ohXEqEovA9PpzC3 - {}
+2024-08-26 18:10:05,321-INFO-DB Connection: tIdPcv8Kt4vOf5U - {'status': <cx_Oracle.Connection to OSSPRG@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=172.25.1.172)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=clty)))>}
+2024-08-26 18:10:05,326-INFO-SQL results: tIdPcv8Kt4vOf5U - {}
+2024-08-26 18:10:05,327-INFO-SRNumber: ohXEqEovA9PpzC3 - {'msg': 'Success', 'result': 'OSS Fault Cleared and Confirm'}
+2024-08-26 18:10:05,342-INFO-SRNumber: tIdPcv8Kt4vOf5U - {'msg': 'Success', 'result': 'OSS Fault Cleared and Confirm'}
+2024-08-26 18:15:01,249-INFO-Request Json File: {'TPno': '0333135830', 'Id': '1-5AUC64O', 'SRNumber': '1-11539529736', 'FaultStatus': '1', 'Return_Remarks': 'R1\n', 'Test_Observations': '11', 'Cause_of_Fault': 'A', 'Fault_In': 'A7', 'Impact': '1', 'ClearedDate': '2024-08-26T18:12:58', 'ConfirmDate': '2024-08-26T18:12:58', 'Additional_Remarks': 'Device issue'}
+2024-08-26 18:15:01,249-INFO-@1 W5DW96LCrCXO5hN
+2024-08-26 18:15:01,269-INFO-Request Json File: {'TPno': '0113486444', 'Id': '1-5AU289M', 'SRNumber': '1-11539065946', 'FaultStatus': '0', 'Return_Remarks': 'R2\n', 'Test_Observations': '11', 'Cause_of_Fault': 'A', 'Fault_In': 'A7', 'Impact': '1', 'ClearedDate': '2024-08-26T18:14:20', 'ConfirmDate': '2024-08-26T18:14:20', 'Additional_Remarks': 'Device issue'}
+2024-08-26 18:15:01,269-INFO-@1 qX59ozNpfbaqnqL
+2024-08-26 18:15:01,272-INFO-Request Json File: {'TPno': '0263123435', 'Id': '1-5AUBHB2', 'SRNumber': '1-11539497566', 'FaultStatus': '1', 'Return_Remarks': 'R1\n', 'Test_Observations': '3', 'Cause_of_Fault': 'C', 'Fault_In': 'C1', 'Impact': '1', 'ClearedDate': '2024-08-26T18:14:54', 'ConfirmDate': '2024-08-26T18:14:54', 'Additional_Remarks': 'Cx said issue is ok at the initial call\n'}
+2024-08-26 18:15:01,272-INFO-@1 Win5t4g5B9VSS2I
+2024-08-26 18:15:01,414-INFO-DB Connection: W5DW96LCrCXO5hN - {'status': <cx_Oracle.Connection to OSSPRG@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=172.25.1.172)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=clty)))>}
+2024-08-26 18:15:01,418-INFO-SQL results: W5DW96LCrCXO5hN - {}
+2024-08-26 18:15:01,431-INFO-SRNumber: W5DW96LCrCXO5hN - {'msg': 'Success', 'result': 'OSS Fault Cleared and Confirm'}
+2024-08-26 18:15:01,492-INFO-DB Connection: qX59ozNpfbaqnqL - {'status': <cx_Oracle.Connection to OSSPRG@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=172.25.1.172)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=clty)))>}
+2024-08-26 18:15:01,495-INFO-DB Connection: Win5t4g5B9VSS2I - {'status': <cx_Oracle.Connection to OSSPRG@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=172.25.1.172)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=clty)))>}
+2024-08-26 18:15:01,496-INFO-SQL results: qX59ozNpfbaqnqL - {}
+2024-08-26 18:15:01,500-INFO-SQL results: Win5t4g5B9VSS2I - {}
+2024-08-26 18:15:01,508-INFO-SRNumber: qX59ozNpfbaqnqL - {'msg': 'Success', 'result': 'OSS Fault Cleared and Confirm'}
+2024-08-26 18:15:01,512-INFO-SRNumber: Win5t4g5B9VSS2I - {'msg': 'Success', 'result': 'OSS Fault Cleared and Confirm'}
+2024-08-26 18:20:03,381-INFO-Request Json File: {'TPno': '0263127606', 'Id': '1-5AUG79O', 'SRNumber': '1-11539717836', 'FaultStatus': '1', 'Return_Remarks': 'R1\n', 'Test_Observations': '3', 'Cause_of_Fault': 'C', 'Fault_In': 'C1', 'Impact': '1', 'ClearedDate': '2024-08-26T18:17:51', 'ConfirmDate': '2024-08-26T18:17:51', 'Additional_Remarks': 'Cx said issue is ok at the initial call\n'}
+2024-08-26 18:20:03,381-INFO-@1 S1EsPO206h0fVsf
+2024-08-26 18:20:03,387-INFO-Request Json File: {'TPno': '0323124597', 'Id': '1-5ATYOEU', 'SRNumber': '1-11538900246', 'FaultStatus': '1', 'Return_Remarks': 'R1\n', 'Test_Observations': '3', 'Cause_of_Fault': 'C', 'Fault_In': 'C1', 'Impact': '1', 'ClearedDate': '2024-08-26T18:17:01', 'ConfirmDate': '2024-08-26T18:17:01', 'Additional_Remarks': 'Cx said issue is ok at the initial call\n'}
+2024-08-26 18:20:03,387-INFO-@1 DnVL6futUImnK8q
+2024-08-26 18:20:03,504-INFO-DB Connection: S1EsPO206h0fVsf - {'status': <cx_Oracle.Connection to OSSPRG@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=172.25.1.172)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=clty)))>}
+2024-08-26 18:20:03,508-INFO-SQL results: S1EsPO206h0fVsf - {}
+2024-08-26 18:20:03,533-INFO-SRNumber: S1EsPO206h0fVsf - {'msg': 'Success', 'result': 'OSS Fault Cleared and Confirm'}
+2024-08-26 18:20:03,540-INFO-DB Connection: DnVL6futUImnK8q - {'status': <cx_Oracle.Connection to OSSPRG@(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=172.25.1.172)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=clty)))>}
+2024-08-26 18:20:03,544-INFO-SQL results: DnVL6futUImnK8q - {}
+2024-08-26 18:20:03,556-INFO-SRNumber: DnVL6futUImnK8q - {'msg': 'Success', 'result': 'OSS Fault Cleared and Confirm'}

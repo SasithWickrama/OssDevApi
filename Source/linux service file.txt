@@ -1,0 +1,11 @@
+[Unit]
+Description=The Gunicorn instance to serve Flask Project
+After=network.target
+
+[Service]
+WorkingDirectory=/opt/OssDevApi
+Environment="PATH=//opt/OssDevApi/ossDevApivenv/bin"
+ExecStart=/opt/OssDevApi/ossDevApivenv/bin/gunicorn --bind 0.0.0.0:22550  --workers 5 --bind unix:ossdevapi.sock -m 007 wsgi
+
+[Install]
+WantedBy=multi-user.target

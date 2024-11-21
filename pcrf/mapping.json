@@ -1,0 +1,20 @@
+{"packages_list":
+[
+  { "pcrfID": "56",
+    "offeringID":"61000011",
+    "accountType":"62000003",
+    "pcrfName": "P_VB_Q_OM_PREPAID_30GB",
+    "description":"SLT_Pre_SO_BB_Meet_Add_on_30D",
+    "freeUnitType": "SLT_pre_fu_DATAL_Meet",
+    "pricewithTax": "23500"
+  },
+  { "pcrfID": "57",
+    "offeringID": "61000012",
+    "accountType":"62000004",
+    "pcrfName": "P_VB_PRE_SMYT",
+    "description":"SLT_Pre_SO_BB_Social_Media_Add_on_30D",
+    "freeUnitType": "SLT_pre_fu_DATAL_SocialMedia",
+    "pricewithTax": "39000"
+  }
+]
+}

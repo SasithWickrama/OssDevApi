@@ -1,0 +1,9 @@
+2023-01-30 10:22:51,698-INFO-request : MvnH3biyoqUpgiN - {'username': 'ADMIN_USER', 'api_key': '123451'}
+2023-01-30 10:25:05,884-INFO-request : IG6qG8QYCP7IJME - {'username': 'ADMIN_USER', 'api_key': '123451'}
+2023-01-30 10:26:02,202-INFO-request : rEq3ad7EmmCTdr3 - {'username': 'ADMIN_USER', 'api_key': '123451'} - Invalid Credentials
+2023-01-30 10:26:26,042-INFO-request : XLZ8fkfgWWpRECt - {'username': 'ADMIN_USER', 'api_key': '123451'} - Invalid Credentials
+2023-01-30 10:30:25,058-INFO-request : ObhpNF8ZAUZEKPI - {'username': 'ADMIN_USER', 'api_key': '123451'} - Invalid Credentials
+2023-01-30 10:30:44,614-INFO-request : hiAPmTQIEYua5qd - {'username': 'ADMIN_USER', 'api_key': '123451'} - Invalid Credentials
+2023-01-30 10:31:28,130-INFO-request : kuzLdktQ9HVVJyF - {'username': 'ADMIN_USER', 'api_key': '123451'} - Invalid Credentials
+2024-02-01 13:02:06,927-INFO-request : kjC6pssN5sQkqnx - {'username': '', 'api_key': ''} - Invalid Credentials
+2024-02-01 13:47:27,008-INFO-request : zCVqJQPmchPyeR8 - {'username': 'SOA_USER', 'api_key': 'xxxxxxx'} - Invalid Credentials
